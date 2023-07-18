@@ -15,21 +15,21 @@
 
 // ✅ Example
 
-class Person {
-    firstName = "Morshedul"
-    lastName = "Arefin"
-    static dateOfBirth = 1984
-    getData() {
-        return `His name is ${this.firstName} ${this.lastName} and birth year is ${this.dateOfBirth}`
-    }
-    static calculateAge() {
-        let dt = new Date();
-        return `His age is: ${dt.getFullYear()-this.dateOfBirth} years`
-    }
-}
-const obj = new Person()
-console.log(obj.getData())
-console.log(Person.calculateAge())
+// class Person {
+//     firstName = "Morshedul"
+//     lastName = "Arefin"
+//     static dateOfBirth = 1984
+//     getData() {
+//         return `His name is ${this.firstName} ${this.lastName} and birth year is ${this.dateOfBirth}`
+//     }
+//     static calculateAge() {
+//         let dt = new Date();
+//         return `His age is: ${dt.getFullYear()-this.dateOfBirth} years`
+//     }
+// }
+// const obj = new Person()
+// console.log(obj.getData())
+// console.log(Person.calculateAge())
 
 
 // Output:

@@ -1,4 +1,9 @@
-// ✅ ✅ ✅ Example 1
+// ✅ Inheritance
+// a) Keyword "extends" is used to create inherit relationship between class
+// b) For inherit relationship child class can use parent class properties
+
+
+// ✅ Example
 
 // class Human {
 //     constructor(name,age) {
@@ -32,6 +37,7 @@
 // const babu = new Baby("Asaduzzaman Babu", 5);
 // console.log(babu.name);
 // console.log(babu.age);
+
 // Output:
 // Asaduzzaman Babu
 // 5

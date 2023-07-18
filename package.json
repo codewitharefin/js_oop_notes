@@ -4,7 +4,7 @@
   "description": "",
   "main": "arrow_function.js",
   "scripts": {
-    "test": "nodemon 4_static_keyword.js"
+    "test": "nodemon 6_overriding.js"
   },
   "repository": {
     "type": "git",
