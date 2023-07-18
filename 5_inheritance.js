@@ -1,5 +1,4 @@
-
-// ✅ ✅ ✅ Inheritance
+// ✅ ✅ ✅ Example 1
 
 // class Human {
 //     constructor(name,age) {

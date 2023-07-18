@@ -1,4 +1,39 @@
-// ✅ ✅ ✅ Constructor
+// ✅ Classes constructor is a magic method
+// a) Constructor execute automatically when object is created
+// b) Constructor can take parameter
+// c) Constructor method can't return any result
+
+
+
+// ✅ Example 1
+
+// class Person {
+//     constructor() {
+//         console.log(`I am a constructor`)
+//     }
+// }
+// const obj = new Person()
+
+// Output: 
+// I am a constructor
+
+
+
+// ✅ Example 2
+
+// class Person {
+//     constructor(msg) {
+//         console.log(msg)
+//     }
+// }
+// const obj = new Person(`I am a constructor`)
+
+// Output: 
+// I am a constructor
+
+
+
+// ✅ Example 3
 
 // class Player {
 //     constructor(name,age,skill) {

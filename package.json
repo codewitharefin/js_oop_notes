@@ -4,7 +4,7 @@
   "description": "",
   "main": "arrow_function.js",
   "scripts": {
-    "test": "nodemon oop_concept.js"
+    "test": "nodemon 4_static_keyword.js"
   },
   "repository": {
     "type": "git",
